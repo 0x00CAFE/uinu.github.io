@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>この世界は本物だろうか</title>
-    <link>http://5kg.jp/</link>
-    <description>Recent content on この世界は本物だろうか</description>
+    <title>Portfolios on この世界は本物だろうか</title>
+    <link>http://5kg.jp/portfolio/</link>
+    <description>Recent content in Portfolios on この世界は本物だろうか</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>&amp;copy;2017 虚構世界論</copyright>
     <lastBuildDate>Sat, 24 Jun 2017 14:27:44 +0900</lastBuildDate>
     
-	<atom:link href="http://5kg.jp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://5kg.jp/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>http://5kg.jp/portfolio/sample-page/</guid>
       <description>このサイトについて このサイトはサンプルです。</description>
-    </item>
-    
-    <item>
-      <title>虚構世界論序説</title>
-      <link>http://5kg.jp/about/</link>
-      <pubDate>Sat, 24 Jun 2017 14:27:24 +0900</pubDate>
-      
-      <guid>http://5kg.jp/about/</guid>
-      <description>本文です</description>
     </item>
     
   </channel>
