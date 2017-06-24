@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>虚構世界論</title>
-    <link>http://5kg.jp/</link>
-    <description>Recent content on 虚構世界論</description>
+    <title>十分に発達した魔法は科学と区別がつかない on 虚構世界論</title>
+    <link>http://5kg.jp/tags/%E5%8D%81%E5%88%86%E3%81%AB%E7%99%BA%E9%81%94%E3%81%97%E3%81%9F%E9%AD%94%E6%B3%95%E3%81%AF%E7%A7%91%E5%AD%A6%E3%81%A8%E5%8C%BA%E5%88%A5%E3%81%8C%E3%81%A4%E3%81%8B%E3%81%AA%E3%81%84/</link>
+    <description>Recent content in 十分に発達した魔法は科学と区別がつかない on 虚構世界論</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>虚構世界論 All rights reserved 2017</copyright>
     <lastBuildDate>Sat, 24 Jun 2017 14:27:24 +0900</lastBuildDate>
     
-	<atom:link href="http://5kg.jp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://5kg.jp/tags/%E5%8D%81%E5%88%86%E3%81%AB%E7%99%BA%E9%81%94%E3%81%97%E3%81%9F%E9%AD%94%E6%B3%95%E3%81%AF%E7%A7%91%E5%AD%A6%E3%81%A8%E5%8C%BA%E5%88%A5%E3%81%8C%E3%81%A4%E3%81%8B%E3%81%AA%E3%81%84/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -103,15 +103,6 @@
 それなりに真剣にやろう。
 そう思いつつ、使い慣れた Mac book を開きテキストエディタを立ち上げました。
 表紙</description>
-    </item>
-    
-    <item>
-      <title>虚構世界論概説</title>
-      <link>http://5kg.jp/about/</link>
-      <pubDate>Sat, 24 Jun 2017 14:27:24 +0900</pubDate>
-      
-      <guid>http://5kg.jp/about/</guid>
-      <description>この世界は本物でしょうか。それとも偽物でしょうか。</description>
     </item>
     
   </channel>
