@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://5kg.jp/2017/06/sample-page/</loc>
+    <lastmod>2017-06-24T14:27:44+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://5kg.jp/about/</loc>
+    <lastmod>2017-06-24T14:27:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://5kg.jp/tags/</loc>
+    <lastmod>2017-06-24T14:27:44+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://5kg.jp/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://5kg.jp/page/</loc>
+    <lastmod>2017-06-24T14:27:24+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://5kg.jp/post/</loc>
+    <lastmod>2017-06-24T14:27:44+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://5kg.jp/tags/</loc>
+    <lastmod>2017-06-24T14:27:44+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://5kg.jp/</loc>
+    <lastmod>2017-06-24T14:27:44+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
