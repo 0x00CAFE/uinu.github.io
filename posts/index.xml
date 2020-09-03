@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0xC0FFEE&#39;s Portfolio</title>
-    <link>https://5kg.jp/</link>
-    <description>Recent content on 0xC0FFEE&#39;s Portfolio</description>
+    <title>Posts on 0xC0FFEE&#39;s Portfolio</title>
+    <link>https://5kg.jp/posts/</link>
+    <description>Recent content in Posts on 0xC0FFEE&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 04 Sep 2020 02:50:22 +0900</lastBuildDate>
     
-	<atom:link href="https://5kg.jp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://5kg.jp/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
